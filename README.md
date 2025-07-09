@@ -50,4 +50,4 @@ This project explores the **evolution of long jump performances** in track and f
 This project was developed as a final report to blend **sports science** and **data analysis**, supporting future insights into elite long jump performance.
 
 ## 📄 Full Project Report
-
+https://github.com/AnthonyRCamp27/Longjumpanalysis/blob/main/Final%20Project%20Long%20Jump%20Analysis.docx
